@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: 
 ---
+#![Author Photo](filepathway)
 
-My name is Inigo Montoya. I have the following qualities:
+Savannah Massey is a poet originally from Mississippi studying engineering and applied mathematics at Kenyon College. They are the 2026 Youth Poet Laureate for Mississippi. Their portfolio, “The Queer South,” was given an Honorable Mention in Literature for the 2026 Davidson Fellowship Scholarship. Massey is a 2025 YoungArts Winner with Distinction in Poetry and a Scholastic Gold Medalist. They were a finalist in the 2025 Leonard Cohen Poetry Prize and an honorable mention in the 2025 Only Poems Poet of the Year Prize. Their work has been published in over 30 magazines; including Polyphony Lit, Scholastic Art & Writing, and the West Trade Review. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Where to find their work:
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+At the moment, they have not published any collections of work, however you can find some of their individual publications at the ![Publications](publications.md) page.
