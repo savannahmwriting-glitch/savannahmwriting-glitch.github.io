@@ -57,7 +57,7 @@ social-network-links:
   email: "savannahm.writing@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   instagram: savannahmassey12
-  github: daattali
+  github: savannahmwriting-glitch
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -86,7 +86,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Author, Artist
 
 ###########################
 # --- General options --- #
