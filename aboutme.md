@@ -9,4 +9,4 @@ Savannah Massey is a poet originally from Mississippi studying engineering and a
 
 ### Where to find their work:
 
-At the moment, they have not published any collections of work, however you can find some of their individual publications at the ![Publications](https://savannahmwriting.github.io/publications/) page.
+At the moment, they have not published any collections of work, however you can find some of their individual publications in the Publications dropdown in ![Home](https://savannahmwriting-glitch.github.io).
