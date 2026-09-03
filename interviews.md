@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Interviews & Readings
-subtitle: 
+title: 
+subtitle: Interviews & Readings
 ---
 
 ## [Savannah Massey Reads "Pretending We Know We Are Pretending"](https://youtu.be/5O_nO6FWcug?si=wodhFMa_caCrq0R5)
