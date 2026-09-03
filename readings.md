@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interviews & Readings
+title: Readings
 subtitle: 
 ---
 
