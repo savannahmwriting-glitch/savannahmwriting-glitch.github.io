@@ -26,8 +26,9 @@ navbar-links:
     - Creative Nonfiction: "cnf"
     - Fiction: "fiction"
   Interviews & Readings:
-    - Interviews & Press Releases: "interviews"
     - Readings: "readings"
+    - Press Releases: "press-releases"
+    - Interviews: "interviews"
   Home: "https://savannahmwriting-glitch.github.io"
 
 ################
