@@ -13,6 +13,6 @@ At the moment, they have not published any collections of work, however you can 
 
 ### Contact Info:
 
-I check my email regularly so feel free to reach out! I've also linked my social media if you want to keep up with me./
-email: savannahm.writing@gmail.com/
-Instagram: [Savannahmassey12](https://instagram/savannahmassey12)
+I check my email regularly so feel free to reach out! I've also linked my social media if you want to keep up with me.\
+email: savannahm.writing@gmail.com\
+Instagram: [savannahmassey12](https://instagram/savannahmassey12)
