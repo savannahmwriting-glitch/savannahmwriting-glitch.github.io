@@ -10,7 +10,7 @@ Savannah Massey of Pelahatchie, Mississippi from The Mississippi School for Math
 
 ___
 
-## [Masset recieves 2025 YoungArts Award with Distinction](https://www.pelahatchienews.com/article/3189,massey-receives-2025-youngarts-award-with-distinction)
+## [Massey recieves 2025 YoungArts Award with Distinction](https://www.pelahatchienews.com/article/3189,massey-receives-2025-youngarts-award-with-distinction)
 *Pelahatchie News*\
 Savannah Massey of Pelahatchie, Mississippi from The Mississippi School for Mathematics and Science has been named a 2025 YoungArts winner with distinction in writing, the highest honor of the organization...
 
