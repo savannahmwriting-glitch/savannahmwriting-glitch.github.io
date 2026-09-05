@@ -133,6 +133,19 @@ img {
   max-width: 100%;
 }
 
+.columns {
+	display: flex;
+	gap: 20px;
+	align-items: flex-start;
+}
+
+.col {
+	flex: 1;
+	min-width: 0;
+}
+  
+}
+
 .linked-section {
   padding-top: 3.75rem;
   margin-top: -1.5625rem;
