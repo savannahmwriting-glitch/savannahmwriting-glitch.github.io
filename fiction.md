@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Press Releases
+title: Fiction Publications
 subtitle: 
 ---
 
