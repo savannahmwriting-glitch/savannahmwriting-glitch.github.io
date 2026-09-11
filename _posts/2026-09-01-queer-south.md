@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Queer South
-subtitle: A literary portfolio
+title: Massey Announced Honorable Mention in Davidson Fellows Scholarship
+subtitle: The Queer South, a literary portfolio
 comments: true
 author: Savannah Massey
 ---
