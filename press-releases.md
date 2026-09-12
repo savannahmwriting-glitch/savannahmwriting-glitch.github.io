@@ -4,6 +4,12 @@ title: Press Releases
 subtitle: 
 ---
 
+## [2026 Fellows - Davidson Institute](https://www.davidsongifted.org/gifted-programs/fellows-scholarship/fellows/current-and-past-fellows/2026-fellows/)
+*Davidson Institute*\
+Savannah Massey is a 2026 Honorable Mention for the Davidson Fellows Scholarship Award. 
+
+___
+
 ## [Savannah Massey receives 2025 YoungArts Award with Distinction](https://themsms.org/msms-savannah-massey-youngarts-2025/)
 *The Mississippi School for Mathematics and Science, Caleb Youngblood*\
 Savannah Massey of Pelahatchie, Mississippi from The Mississippi School for Mathematics and Science has been named a 2025 YoungArts winner with distinction in writing, the highest honor of the organization...
