@@ -17,4 +17,4 @@ I check my email regularly so feel free to reach out! I've also linked my social
 email: savannahm.writing@gmail.com\
 Instagram: [savannahmassey12](https://instagram/savannahmassey12)
 
-[My super cool partners website](https://circusooze.neocities.org/testpg)
+[My super cool partners website](https://circusooze.neocities.org/)
