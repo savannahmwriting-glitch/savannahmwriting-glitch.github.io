@@ -5,9 +5,10 @@ subtitle:
 ---
 
 ## [Savannah Massey Reads "Pretending We Know We Are Pretending"](https://youtu.be/5O_nO6FWcug?si=wodhFMa_caCrq0R5)
-*West Trade Review*\
-Savannah Massey reads "Pretending We Know We Are Pretending," which is forthcoming in the Fall 2026 collection of Online Exclusives.
 
+| Column 1 | Column 2 |
+| :--- | :--- |
+| *West Trade Review*\ Savannah Massey reads "Pretending We Know We Are Pretending," which is forthcoming in the Fall 2026 collection of Online Exclusives. | ![](/assets/img/avatar-icon.png) |
 ___
 
 ## [Savannah Massey | Writing • Poetry | 2025 National YoungArts Week](https://youtu.be/VLgfQyOEdjc?si=IdaqlbbaGLuXWPKL)
