@@ -27,9 +27,9 @@ navbar-links:
     - Fiction: "fiction"
   Interviews & Readings:
     - Readings: "readings"
-    - Interviews: "interviews"
+    - Interviews: "interviews" 
   Press Releases: "press-releases"
-  Home: "https://savannahmwriting-glitch.github.io"
+  Home: "https://savannahmwriting-glitch.github.io" ![](/assets/img/leaf.png)
 
 ################
 # --- Logo --- #
