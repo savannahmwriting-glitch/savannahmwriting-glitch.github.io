@@ -4,7 +4,7 @@ title: Press Releases
 subtitle: 
 ---
 
-## [2026 Fellows —— Davidson Institute](https://www.davidsongifted.org/gifted-programs/fellows-scholarship/fellows/current-and-past-fellows/2026-fellows/)
+## [2026 Fellows at the Davidson Institute](https://www.davidsongifted.org/gifted-programs/fellows-scholarship/fellows/current-and-past-fellows/2026-fellows/)
 *Davidson Institute*\
 Savannah Massey is a 2026 Honorable Mention for the Davidson Fellows Scholarship Award. 
 
