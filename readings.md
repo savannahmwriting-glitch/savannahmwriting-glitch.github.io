@@ -5,7 +5,7 @@ subtitle:
 ---
 
 ## [Savannah Massey Reads "Pretending We Know We Are Pretending"](https://youtu.be/5O_nO6FWcug?si=wodhFMa_caCrq0R5)
-*West Trade Review*\ 
+*West Trade Review*\
 Savannah Massey reads "Pretending We Know We Are Pretending," which is forthcoming in the Fall 2026 collection of Online Exclusives.
 
 ___
