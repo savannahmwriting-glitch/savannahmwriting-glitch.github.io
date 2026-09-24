@@ -73,6 +73,9 @@ h4 {
 h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
+h1, h2 {
+  text-align: center;
+}
 a {
   color: var(--link-col);
 }
