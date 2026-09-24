@@ -20,4 +20,5 @@ Instagram: [savannahmassey12](https://instagram/savannahmassey12)
 [My super cool partners website](https://circusooze.neocities.org/)
 
 [![Alt text for image](/assets/img/leaf.png)](https://circusooze.neocities.org/)
-^my partners website
+^my partners website\
+big fan of them
