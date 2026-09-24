@@ -4,7 +4,7 @@ title: Fiction Publications
 subtitle: 
 ---
 
-### my obituary is written on a postcard
+### [my obituary is written on a postcard](obituary.md)
 
 *Recipient of the Scholastic Gold Key, The Chris Read Award, and MS Scholastic Association Press Best in Flash Fiction*
 
