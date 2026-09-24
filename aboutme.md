@@ -18,5 +18,3 @@ email: savannahm.writing@gmail.com\
 Instagram: [savannahmassey12](https://instagram/savannahmassey12)
 
 [My super cool partners website](https://circusooze.neocities.org/)
-
-[Click me](http://www.google.com){: .btn}
